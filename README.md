@@ -22,3 +22,7 @@ This is a simple Node.js application that allows users to subscribe to a newslet
 ```bash
 git clone https://github.com/your-username/newsletter-app.git
 cd newsletter-app
+
+## Description
+This project allows users to subscribe to a newsletter. It integrates with the Mailchimp API and is built using Node.js and Express.
+
